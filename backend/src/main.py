@@ -30,6 +30,7 @@ app.add_middleware(
 
 @app.post("/test2")
 async def read_data1(request: Request):
+
    try:
         data = await request.json()
         user_input = data["data"]

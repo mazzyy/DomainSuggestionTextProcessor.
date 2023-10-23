@@ -10,8 +10,4 @@ services:
       context: ./frontend
     ports:
       - "3000:3000"
-  streamlit:
-    build:
-      context: ./streamlit
-    ports:
-      - "8501:8501"
+
