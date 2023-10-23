@@ -4,7 +4,7 @@
 
 - [x] Setup Github Repo
 - [x] Structure Project for Backend and Frontend
-- [ ] Make Backend of the toolkit
-- [ ] Make Frontend of the toolkit[ ] 
+- [x] Make Backend of the functionality
+- [x] Make Frontend of the functionality
 - [x] Make interconnection of Backend and Frontend
 
