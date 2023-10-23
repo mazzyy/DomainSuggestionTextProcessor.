@@ -1,0 +1,51 @@
+.txtfont-size{
+  font-size: 30px !important;
+  font-weight: 600 !important;
+  color: #242d3c !important; /* Text color, you can change it */
+  
+}
+
+.btnfont-size{
+  font-size: 30px !important;
+  font-weight: 400 !important;
+  border: none;
+  border-bottom: 2px solid #242d3c; /* You can change the color here */
+  background-color: transparent; /* Transparent background to remove default button styles */
+  padding: 10px 20px; /* Adjust padding as needed */
+  color: #242d3c; /* Text color, you can change it */
+  cursor: pointer;
+
+}
+.adopt{
+background-color: #242d3c !important;
+}
+.clipy{
+  clip-path: polygon(99% 0, 100% 50%, 99% 100%, 0% 100%, 0 51%, 0% 0%);
+
+}
+
+body{
+  /* background-image: url("assets/img/mainbar.jpg"); */
+  background-image: linear-gradient(to top, #ffffff2d 0%, #c0d2e9 100%);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 200px; /* Adjust the height as needed */
+}
+.transparent-card {
+  background-color: rgba(255, 255, 255, 0.8); 
+  /* border: none; */
+}
+
+.textera{
+  background-color: #f1f1f1;
+  background-image: linear-gradient(to bottom, rgba(255,255,255,0.50) 0%, rgba(0,0,0,0.50) 100%), radial-gradient(at 50% 0%, rgba(255,255,255,0.10) 0%, rgba(0,0,0,0.50) 50%);
+  background-blend-mode: soft-light,screen;
+}
+
+.vh-75 {
+  height: 80vh;
+}
+
+
+/* cool text */
